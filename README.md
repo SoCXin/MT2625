@@ -1,18 +1,17 @@
-﻿
-# Cortex A
+﻿# [MT2625](https://github.com/mcuyun/MT2625) 
 
-[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+MT2625内核通信MCU
 
-ARM公司的Cortex-A系列处理器适用于具有高计算要求、运行丰富操作系统以及提供交互媒体和图形体验的应用领域。
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+
+---
 
 
 
 ---
 
+###  www.mcuyun.com   |    qitas@qitas.cn
 
----
-
-## 说明
-
-本文档用于索引Cortex A工程
 
