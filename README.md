@@ -1,9 +1,8 @@
 ﻿# [MT2625](https://github.com/sochub/MT2625)
-
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-
-#### 归属：[cortex M4](https://github.com/sochub/CM4)
-
+#### 厂商：[mediatek](https://github.com/sochub/mediatek)
+#### 归类：[cortex M4](https://github.com/sochub/CM4)
+#### 收录芯片定级：[Level](https://github.com/sochub/Level)
 ## [描述](https://github.com/sochub/MT2625/wiki) 
 
 [MT2625](https://www.mediatek.com/products/nbIot/mt2625) is an NB-IoT R14 enabled SoC 
@@ -18,9 +17,8 @@ With a Real time operation system (RTOS) base, it’s easily customizable for ap
 
 
 
+### [选型建议](https://github.com/sochub)
 
----
+高性价NB开发平台，支持openCPU开发，更高性能方案 [MDM9607](https://github.com/sochub/MDM9607) 
 
-###  [SoC开发平台](http://www.qitas.cn)   
-
-###  qitas@qitas.cn
+###  [SoC资源平台](http://www.qitas.cn)   
