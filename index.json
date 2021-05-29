@@ -1,0 +1,31 @@
+{
+    "type":"MCU",
+    "name":"MT2625",
+    "title": "MediaTek MT2625 MCU",
+    "description":"MediaTek dual-core MIPS MCU",
+    "Core": {
+        "type":"24KEc",
+        "Freq":580,
+        "DMIPS": 1.55,
+        "CoreMark": 3.05
+    },
+    "manufacturer": {
+        "vendor":"MediaTek",
+        "homepage":"https://www.mediatek.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/MT2625.git"
+    },
+    "version":"1.0.0",
+    "series":["MT2625AN","MT2625KN"],
+    "package":["QFN156","QFN120"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
