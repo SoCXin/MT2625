@@ -1,13 +1,13 @@
 {
-    "type":"MCU",
+    "type":"SoC",
     "name":"MT2625",
-    "title": "MediaTek MT2625 MCU",
-    "description":"MediaTek dual-core MIPS MCU",
+    "title": "MediaTek MT2625 SoC",
+    "description":"MediaTek Cortex-M4 SoC",
     "Core": {
-        "type":"24KEc",
-        "Freq":580,
-        "DMIPS": 1.55,
-        "CoreMark": 3.05
+        "type":"Cortex-M4",
+        "Freq":156,
+        "DMIPS": 195,
+        "CoreMark": 300
     },
     "manufacturer": {
         "vendor":"MediaTek",
@@ -25,7 +25,7 @@
         "dev-platform",
         "ARM",
         "Cortex-M",
-        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "NB-IoT","DAC","SDIO","CAN","I2C","RTC","SPI",
         "3.6V","1.8V"
     ]
 }

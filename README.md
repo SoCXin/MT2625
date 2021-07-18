@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [MediaTek](https://www.mediatek.com/): [Cortex-M4](https://github.com/SoCXin/Cortex)
-* [L4R5](https://github.com/SoCXin/Level): 156 MHz x 1.25 DMIPS/MHz
+* [L4R4](https://github.com/SoCXin/Level): 156 MHz x 1.25 DMIPS/MHz
 
 ## [简介](https://github.com/SoCXin/MT2625/wiki)
 
@@ -21,7 +21,6 @@ MT2625 的宽频前端模组支持 3GPP R14 规范下涵盖超低频/低频/中�
 * NB-IoT调制解调器DSP
 
 
-
 ### [资源收录](https://github.com/SoCXin)
 
 * [参考资源](src/)
@@ -30,9 +29,9 @@ MT2625 的宽频前端模组支持 3GPP R14 规范下涵盖超低频/低频/中�
 
 ### [选型建议](https://github.com/SoCXin)
 
-[MT2625](https://github.com/SoCXin/MT2625) 支持openCPU开发
+[MT2625](https://github.com/SoCXin/MT2625) 支持openCPU开发，可以获取公开的SDK资源和例程
 
-* MT2625KN:QFN120 (10×10mm)
+* MT2625KN: QFN120 (10×10mm)
 
 #### 相关开发板
 

@@ -15,7 +15,6 @@ CHANGE*
 README*
 COPY*
 *CONTRIBU*
-LICENSE*
 HACKING*
 *.swp
 *.lck
@@ -28,7 +27,6 @@ HACKING*
 *.hex
 *.bin
 *bak
-*.txt
 *.lst
 *.sct
 *.elf
@@ -39,40 +37,20 @@ HACKING*
 *.odg
 *.csv
 *.xml
+*.o
 # *.pdf
 *_sc*
-*cm23*
-*cm33*
-# *cm3*
-# *cm4*
-*cm7*
-*cm1*
-*cm0*
 *.uvgu*
 .gitmodules
 # *.png
-*.jpg
+# *.jpg
 *.rst
 .travis.yml
 doc
 *dox
 tests
 # mk
-*.md
+# *.md
 Doxyfile
-**/*/README*
 *.so
 *.dcm
-*32f100*
-*32f101*
-*32f102*
-*32f105*
-*32f107*
-*32g*
-*32h*
-*32f7*
-*32f4*
-*32f3*
-*32f2*
-*32f0*
-*32l*
